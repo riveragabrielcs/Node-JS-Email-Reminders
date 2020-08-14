@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/riveragabrielcs/Node-JS-Email-Reminders#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.11"
   }
 }
